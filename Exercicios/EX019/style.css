@@ -1,0 +1,19 @@
+@charset "UTF-8";
+
+body
+{
+    background-image: linear-gradient(  rgb(111, 158, 111),rgb(47, 47, 197));
+}
+
+#principal
+{
+    background-color: aqua;
+    text-align: center;
+    color: aliceblue;
+
+}
+.DestaqueAprendendo
+{
+
+    background-color: aqua;
+}

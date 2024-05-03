@@ -1,0 +1,32 @@
+body
+{
+    background-color: aquamarine;
+}
+
+
+nav > a{
+    text-decoration: none;
+
+}
+nav > a:hover{
+    text-decoration: underline;
+}
+
+nav{
+
+    background-color: rgb(72, 30, 30);
+    width: 30000px;
+    height: 300px;
+    border-radius: 10px 10px;
+}
+
+div#Bola 
+{
+
+
+    height: 100px;
+    width: 100px;
+    background-color: black;
+    border-radius: 50px;
+    margin: 30px;
+}
